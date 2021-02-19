@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌐 [GitHub page](https://aedoardo.github.io) 🌐
+🌐 <a href="https://aedoardo.github.io" target="_blank">Personal page</a> 🌐
+
 
 <!--
 [![Edoardo's github stats](https://github-readme-stats.vercel.app/api?username=aedoardo&count_private=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
