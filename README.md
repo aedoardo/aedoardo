@@ -1,6 +1,6 @@
-### Hi there 👋
 
-🌐 <a href="https://aedoardo.github.io" target="_blank">Personal page</a> 🌐
+
+### 🌐 <a href="https://aedoardo.github.io" target="_blank">Personal page</a> 🌐
 
 
 <!--
